@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Domanda SYSTEM "http://praticasimba.infocamere.it/ptbm/sport/public/dtd/DomandaBM180903.dtd">
+<?xml-stylesheet type="text/xsl" href="http://praticasimba.infocamere.it/ptbm/sport/public/dtd/DomandaBM180903.xsl" ?>
+<!--@Simba offline 3.0.6-->
+<Domanda>
+<Dati>
+<DataCompilazione>2013-11-24</DataCompilazione>
+<NumeroDomanda></NumeroDomanda>
+<ModelloDomanda>
+<TipoCModulo/>
+</ModelloDomanda>
+<Tipo>P</Tipo>
+<NumeroElementiModello></NumeroElementiModello>
+<RichiestaCopiaAutentica>
+<NO/>
+</RichiestaCopiaAutentica>
+<Identificatore>306</Identificatore>
+<Note></Note>
+</Dati>
+<Richiedenti>
+<Richiedente>
+<Anagrafica>
+<NaturaGiuridica>
+<PG/>
+</NaturaGiuridica>
+<CognomeRagSociale>CIRCOLO INTERNAZIONALE</CognomeRagSociale>
+<Nome></Nome>
+<CodFiscale>90021420634</CodFiscale>
+</Anagrafica>
+<DatiResidenza>
+<Indirizzo>VILLA COMUNALE MOLO QUARTUCCIO</Indirizzo>
+<Civico></Civico>
+<Comune codiceISTAT='024'>CASTELLAMMARE DI STABIA</Comune>
+<CAP>80053</CAP>
+<Provincia siglaProv='NA'>NAPOLI</Provincia>
+<Localita></Localita>
+<Nazione siglaNazione='IT' codiceNazione=''>ITALIA</Nazione>
+</DatiResidenza>
+<DatiNascita>
+<Data></Data>
+<Comune codiceISTAT=''></Comune>
+<Provincia siglaProv='' codiceISTAT=''></Provincia>
+<Localita></Localita>
+<Nazione siglaNazione='' codiceNazione=''></Nazione>
+</DatiNascita>
+<Telefono></Telefono>
+<Fax></Fax>
+<IndirizzoTelematico></IndirizzoTelematico>
+</Richiedente>
+</Richiedenti>
+<Recapito>
+<FlagDomEleRap>
+<D/>
+</FlagDomEleRap>
+<DatiRecapito>
+<CognomeRagSociale>CIRCOLO INTERNAZIONALE</CognomeRagSociale>
+<Nome></Nome>
+<DatiResidenza>
+<Indirizzo>VILLA COMUNALE MOLO QUARTUCCIO</Indirizzo>
+<Civico></Civico>
+<Comune codiceISTAT='024'>CASTELLAMMARE DI STABIA</Comune>
+<CAP>80053</CAP>
+<Provincia siglaProv='NA'>NAPOLI</Provincia>
+<Localita></Localita>
+<Nazione siglaNazione='' codiceNazione=''></Nazione>
+</DatiResidenza>
+</DatiRecapito></Recapito>
+<TitoloGenerale>
+<Marchio>
+<Descrizione>PROFILO DEL DOTTOR CIRO MADONNA SU UN PALCOSCENICO CON SIPARIO SEMIAPERTO E VESUVIO. IN BASSO PRESENTE LA SCRITTA: &quot; PREMIO CIRO MADONNA&quot;</Descrizione>
+<Colore>
+<Codice></Codice>
+<Descrizione>BIANCO E NERO</Descrizione>
+</Colore>
+</Marchio>
+</TitoloGenerale>
+<Classi>
+<NumeroTotale>1</NumeroTotale>
+<ClasseProposta>
+<Sezione></Sezione>
+<Classe>41</Classe>
+<Sottoclasse></Sottoclasse>
+<Gruppo></Gruppo>
+<Sottogruppo></Sottogruppo>
+<Descrizione>EDUCAZIONE; FORMAZIONE; DIVERTIMENTO; ATTIVITA&apos; SPORTIVE E CULTURALI. SI RICHIEDE LA REGISTRAZIOEN PER TUTTI I SERVIZI PRESENTI NELLA LISTA ALFABETICA DELLA CLASSIFICAZIONE DI NIZZA, PER LA CLASSE PRESCELTA</Descrizione>
+</ClasseProposta>
+</Classi>
+<ListaPriorita>
+</ListaPriorita>
+<CRC>
+<Codice></Codice>
+<Descrizione></Descrizione>
+</CRC>
+<Rinnovi>
+<NOrdine></NOrdine>
+<NReg1Dep></NReg1Dep>
+<DataReg1Dep></DataReg1Dep>
+<Dom1Dep></Dom1Dep>
+<DataDom1Dep></DataDom1Dep>
+<NRegPrec></NRegPrec>
+<DataRegPrec></DataRegPrec>
+<DomPrec></DomPrec>
+<DataDomPrec></DataDomPrec>
+</Rinnovi>
+<AnnotazioniSpeciali>
+<AnnotazioneSpeciale>
+<Codice></Codice>
+<Descrizione></Descrizione>
+</AnnotazioneSpeciale>
+</AnnotazioniSpeciali>
+<Allegati>
+<DocumentoAllegato>
+<Codice>G10-4-28-009</Codice>
+<Descrizione>Attestato Versamento</Descrizione>
+<FlagPresenza/>
+</DocumentoAllegato>
+</Allegati>
+<Tassa>
+<ImportoNumerico>101.00</ImportoNumerico>
+<ImportoLettere>CENTOUNO/00</ImportoLettere>
+<ImportoTeorico></ImportoTeorico>
+<Data></Data>
+<ImportoMarcheBollo>SI</ImportoMarcheBollo>
+</Tassa>
+</Domanda>
